@@ -1,4 +1,5 @@
 **PayPal Website Clone**
+view website : https://main.d1phn4bc1co900.amplifyapp.com/
 
 **Description**
 This project is a clone of the PayPal website. It replicates the layout and design of the PayPal homepage using HTML and CSS. The purpose of this project is to practice front-end web development skills by recreating a real-world website.
